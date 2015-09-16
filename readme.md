@@ -7,7 +7,7 @@ This is a Go demo application with a PostgreSQL database used for demonstrating 
 The `demo_pq` directory contains the demo application.
 
 ## Requirements
-
+- change
 - Install Docker (https://docs.docker.com/installation/)
 
 - Install Docker Compose (https://docs.docker.com/compose/)
